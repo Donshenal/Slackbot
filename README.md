@@ -28,6 +28,7 @@ docker run slackbot
 
 - `Slackbot.py`: Python script for fetching data from PostgreSQL and posting it on Slack.
 - `Dockerfile`: Dockerfile specifying the environment and setup for the Slackbot.
+- `requirements`: List of required Python dependencies.
 
 ## Note
 
