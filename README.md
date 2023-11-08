@@ -1,4 +1,4 @@
-# Slackbot for Posting Data from PostgreSQL
+# Slackbot for posting data from PostgreSQL
 
 This Python project is designed to periodically fetch data from a PostgreSQL database and post it on a Slack channel using Slack's webhook integration.
 
